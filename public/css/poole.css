@@ -434,3 +434,8 @@ body {
     width: 75%;
     margin: auto;
 }
+
+.sig {
+    text-align: right;
+    margin-right: 1.5em;
+}
