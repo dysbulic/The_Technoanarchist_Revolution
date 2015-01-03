@@ -8,7 +8,7 @@ title: Introduction
 <p class='sig'>&#x2015; *The Hitchhiker’s Guide to the Galaxy*</p>
 </blockquote>
 
-I keep remembering , which I read years ago.
+I keep remembering Ian Watson's *The Very Slow Time Machine*, which I read years ago.
 
 A capsule appears in a laboratory with an old insane man in it. As time passes they recognize that he is aging backwards.
 
