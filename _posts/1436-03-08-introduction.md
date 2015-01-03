@@ -8,7 +8,7 @@ title: Introduction
 <p class='sig'>&#x2015; *The Hitchhiker’s Guide to the Galaxy*</p>
 </blockquote>
 
-I keep remembering a sci-fi short story I read years ago.
+I keep remembering , which I read years ago.
 
 A capsule appears in a laboratory with an old insane man in it. As time passes they recognize that he is aging backwards.
 
@@ -16,16 +16,23 @@ Eventually he communicates how to build the capsule and switches places with the
 
 I've had that sense of a story told backwards for a while.
 
-I remember months of being enamored with the fame that has to accomany being the one to start Babylon burning.
+Like the title says, this is *The Revoultion Will Be Televised*. Some group of people start working on a concrete plan for restructuing the systemic sources of suffering and publishing as much data as possible about their revolutionary work.
 
-If this works like it could, we'll end up in a theocracy, The Caliphate, and I'll be the prophet to succeed Mohammed.
+First and formost are war and hunger.
 
-As much as it seems like I would have set out for something so grandiose, it just recently fell into place.
+To work toward the end of war, we saturate a region with communications infrastructure: mobile phones, solar chargers, and network-providing blimps.
 
-I thought I was going to end hunger.
+We connect that in-country network with as complex an exterior information as necessary to build a successful reistance,
+
+The issues are twofold:
+
+* We drop in bunches of phones and Da'esh destroys them all, killing anyone who stands up. I dunno, much of this depends on what percentage of the population is enamored with the violence. Phones could spread through other means if this was the case.
+* Forces insisting on violence will coopt the equipment and use it to further nefarious plots. There should be technical means for mitigating this: fingerprint locking, cause erase passcodes, and the like.
+
+We could set up banks of native speakers. The first contact with a phone is just press a button and get an operator.
+
+To address the systemic causes of hunger, I would like to open access to the data stores backing the industries that make up the supply chain. 
 
 Multi-master stores are a database technology that allow independent instances to be seamlessly composited.
 
-My idea is to publish the functioning of the supply chain in [one of these](http://ipfs.io) then use computers to work out the systemic origins of hunger and shelter.
-
-Recently, though I started focusing on [the reality of the experience of The Holy Spirit](http://www.amazon.com/Why-God-Wont-Go-Away/dp/034544034X) and absurdity of the Virgin Birth. 
+If the storage for all the retail point-of-sale systems were in [one of these](http://ipfs.io), they could all be combined to provide a real-time view of the market.
