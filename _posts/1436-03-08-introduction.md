@@ -8,21 +8,13 @@ title: Introduction
 <p class='sig'>&#x2015; *The Hitchhiker’s Guide to the Galaxy*</p>
 </blockquote>
 
-I keep remembering Ian Watson's *The Very Slow Time Machine*, which I read years ago.
-
-A capsule appears in a laboratory with an old insane man in it. As time passes they recognize that he is aging backwards.
-
-Eventually he communicates how to build the capsule and switches places with the him that has been aging normally simultaneously.
-
-I've had that sense of a story told backwards for a while.
-
 Like the title says, this is *The Revoultion Will Be Televised*. Some group of people start working on a concrete plan for restructuing the systemic sources of suffering and publishing as much data as possible about their revolutionary work.
 
 First and formost are war and hunger.
 
 To work toward the end of war, we saturate a region with communications infrastructure: mobile phones, solar chargers, and network-providing blimps.
 
-We connect that in-country network with as complex an exterior information as necessary to build a successful reistance,
+We connect that in-country network with as complex an exterior information as necessary to build a successful reistance.
 
 The issues are twofold:
 
@@ -31,8 +23,10 @@ The issues are twofold:
 
 We could set up banks of native speakers. The first contact with a phone is just press a button and get an operator.
 
-To address the systemic causes of hunger, I would like to open access to the data stores backing the industries that make up the supply chain. 
+To address the systemic causes of hunger, I would like to open access to the data stores backing the industries that make up the supply chain.
 
 Multi-master stores are a database technology that allow independent instances to be seamlessly composited.
 
 If the storage for all the retail point-of-sale systems were in [one of these](http://ipfs.io), they could all be combined to provide a real-time view of the market.
+
+An interface could allow people to specify their desires with an AI trying to maximize something like self-reported happiness or simply a report of satisfaction with the system. Regardless, sucess is measured by querying the dispositions of the users.
