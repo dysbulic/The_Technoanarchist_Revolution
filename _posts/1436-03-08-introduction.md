@@ -5,10 +5,10 @@ title: Introduction
 
 <blockquote>
 <q>This time it was right, it would work, and no one would have to get nailed to anything.</q>
-<p class='sig'>&#x2015; *The Hitchhiker’s Guide to the Galaxy*</p>
+<p class='sig'>&#x2015; <cite>The Hitchhiker’s Guide to the Galaxy</cite></p>
 </blockquote>
 
-Like the title says, this is *The Revolution Will Be Televised*. People start working on a concrete plan for restructuring the systemic sources of suffering, and publish as much data as possible about their revolutionary work.
+Like the title says, this is *The Revolution Will Be Televised*. Some group starts working on a concrete plan for restructuring the systemic sources of suffering, and publish as much data as possible about their revolutionary work.
 
 First and foremost are war and hunger.
 
